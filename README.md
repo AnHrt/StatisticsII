@@ -1,5 +1,3 @@
-# Module1 - Statistics
+# Module 1 - Statistics
  
-First Workshop
-Second Workshop
-Third Workshop
+ Submission workshops for checking the REQUISITE for grading the final deliverable documents of the Statistics Module.
