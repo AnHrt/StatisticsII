@@ -4,4 +4,4 @@
 
 Submissions of the advance for the evidences of statistics
 
-The folder "Statistics" contains the dataset provided by the teacher
+The folder "Statistics" contains the dataset provided by the teacher and the final evidence of the business case from the previous class to guide the basics concepts.
